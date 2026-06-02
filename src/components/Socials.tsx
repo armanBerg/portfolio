@@ -10,7 +10,7 @@ export function Socials() {
     <ul className={styles.ul}>
       <SocialsIcon>
         <GitHubIcon
-          onClick={() => window.open("https://github.com/Brobo1", "_blank")}
+          onClick={() => window.open("https://github.com/armanBerg", "_blank")}
         />
       </SocialsIcon>
       <SocialsIcon>
